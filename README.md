@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iamloke
+- 👋 Hi, I’m Lokendra B. Jirel.
 - 🌱 I’m currently learning spring boot.
 - 📫 You can reach me through email: lokendrajirel.b.jirel@gmail.com
 
